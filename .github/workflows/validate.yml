@@ -1,0 +1,29 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate events
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          if [ -n "$BASE_REF" ]; then
+            git diff --name-only -z --diff-filter=AM "origin/$BASE_REF...HEAD" -- 'events/*/*.yml' \
+              | xargs -0 ruby scripts/validate.rb
+          else
+            ruby scripts/validate.rb
+          fi
+      - name: Check that the build works
+        run: ruby scripts/build.rb

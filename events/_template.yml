@@ -1,0 +1,16 @@
+# Copy this file to events/YYYY/YYYY-MM-DD-short-title.yml and fill it in.
+# Required: title, date, location, url, category. Remove optional lines you don't need.
+
+title: Beijing AI Builders Meetup
+date: 2026-11-15              # YYYY-MM-DD
+end_date: 2026-11-16          # optional, for multi-day events
+time: "19:00-21:30"           # optional, Beijing time, keep the quotes
+location: Zhongguancun, Haidian
+address: 中关村创业大街 1号      # optional
+online: false                 # optional, true if there is an online stream
+language: [en, zh]            # optional: en, zh
+category: [ai]                # ai, web, mobile, cloud, devops, data, security, hardware, open-source, startup, design, gaming, other
+price: free                   # optional, e.g. free or ¥50
+url: https://example.com/event
+organizer: Beijing AI Builders  # optional
+description: One or two sentences about the event.  # optional, max 300 characters

@@ -1,0 +1,33 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    paths: ["events/**", "scripts/**", "lib/**"]
+  schedule:
+    - cron: "5 16 * * *" # 00:05 Beijing time, moves finished events to past/
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: build
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: ruby scripts/validate.rb
+      - run: ruby scripts/build.rb
+      - name: Commit generated files
+        run: |
+          git add README.md calendar past
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update generated event overview"
+          git push
