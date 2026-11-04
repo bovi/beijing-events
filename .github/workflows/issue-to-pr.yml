@@ -1,0 +1,45 @@
+name: Issue to pull request
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency: issue-${{ github.event.issue.number }}
+
+jobs:
+  create-pr:
+    if: github.event.issue.state == 'open' && contains(github.event.issue.labels.*.name, 'new-event')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convert issue to event file
+        id: convert
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: ruby scripts/issue_to_event.rb
+      - name: Report problems
+        if: failure() && steps.convert.outcome == 'failure'
+        run: gh issue comment "$ISSUE_NUMBER" --body-file issue_errors.md
+      - name: Open or update pull request
+        env:
+          EVENT_PATH: ${{ steps.convert.outputs.path }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          branch="event/issue-$ISSUE_NUMBER"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add -- "$EVENT_PATH"
+          git commit -m "Add event from #$ISSUE_NUMBER"
+          git push --force origin "$branch"
+          if ! gh pr view "$branch" --json number >/dev/null 2>&1; then
+            gh pr create --head "$branch" --title "$ISSUE_TITLE" --body "Closes #$ISSUE_NUMBER"
+          fi

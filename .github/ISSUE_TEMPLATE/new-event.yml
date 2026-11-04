@@ -1,0 +1,90 @@
+name: Add an event / 添加活动
+description: Suggest a tech event in Beijing. A pull request is created for you automatically.
+title: "[Event] "
+labels: [new-event]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an event! All times are Beijing time. 感谢分享活动！时间均为北京时间。
+  - type: input
+    id: title
+    attributes:
+      label: Event title
+      placeholder: Beijing AI Builders Meetup
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: Format YYYY-MM-DD
+      placeholder: "2026-11-15"
+    validations:
+      required: true
+  - type: input
+    id: end_date
+    attributes:
+      label: End date
+      description: Only for multi-day events, format YYYY-MM-DD
+  - type: input
+    id: time
+    attributes:
+      label: Time
+      description: 24h format, start or start-end
+      placeholder: "19:00-21:30"
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Venue and district, or "Online"
+      placeholder: Zhongguancun, Haidian
+    validations:
+      required: true
+  - type: input
+    id: address
+    attributes:
+      label: Address
+      placeholder: 中关村创业大街 1号
+  - type: dropdown
+    id: online
+    attributes:
+      label: Online
+      description: Can people join online?
+      options: ["No", "Yes"]
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      multiple: true
+      options: [English, 中文]
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      multiple: true
+      options: [ai, web, mobile, cloud, devops, data, security, hardware, open-source, startup, design, gaming, other]
+    validations:
+      required: true
+  - type: input
+    id: price
+    attributes:
+      label: Price
+      placeholder: free or ¥50
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Event page or registration link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One or two sentences, max 300 characters
