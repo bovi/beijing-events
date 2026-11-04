@@ -22,7 +22,7 @@ jobs:
       - run: ruby scripts/build.rb
       - name: Commit generated files
         run: |
-          git add README.md calendar past
+          git add -A
           if git diff --cached --quiet; then
             echo "Nothing changed."
             exit 0
