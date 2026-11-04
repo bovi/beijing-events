@@ -13,7 +13,11 @@ Upcoming tech events in Beijing: meetups, conferences, hackathons, workshops. Ma
 All times are Beijing time (UTC+8).
 
 <!-- EVENTS:START -->
-_No upcoming events yet. [Add the first one!](https://github.com/bovi/beijing-events/issues/new?template=new-event.yml)_
+### Next 30 days
+
+| When | Event | Where | Topics | Lang | Price |
+|---|---|---|---|---|---|
+| Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 <!-- EVENTS:END -->
 
 ## Add an event · 添加活动
