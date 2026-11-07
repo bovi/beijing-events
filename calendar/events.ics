@@ -5,6 +5,22 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Beijing Tech Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+UID:2026-11-06-junction-china-2026-international-hackathon@beijing-events
+DTSTAMP:20261106T000000Z
+DTSTART:20261106T060000Z
+DTEND:20261108T093000Z
+SUMMARY:Junction China 2026 International Hackathon / 国际黑客松
+LOCATION:ZGC International Technology Trade Center\, Beijing / 北京中
+ 关村国际技术交易中心
+URL:https://hackjunction.cn
+DESCRIPTION:A 40+ hour hackathon covering AI\, robotics and spatial compu
+ ting. Opening forum Nov 6 at 14:00\; hackathon Nov 6 19:00–Nov 8 17:30.
+  / 40余小时黑客松，涵盖 AI、机器人与空间计算。11月6
+ 日14:00开幕，19:00开始黑客松，11月8日17:30结束。\n\nhttps:
+ //hackjunction.cn
+CATEGORIES:ai,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-12-ic-china-2026-23rd-china-international-semiconduct@beijing
  -events
 DTSTAMP:20261112T000000Z

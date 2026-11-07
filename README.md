@@ -17,6 +17,7 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
+| Fri Nov 6 – 8, 14:00-17:30 | [Junction China 2026 International Hackathon / 国际黑客松](https://hackjunction.cn) | ZGC International Technology Trade Center, Beijing / 北京中关村国际技术交易中心 | ai, hardware |  | Free / 免费 |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](http://www.icchinaexpo.com) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
 | Sat Nov 14, 13:30-17:30 | [Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers Meetup Call for Demos](https://www.meetup.com/ai-agents-meetup/events/317285288/) | Zhongguancun Science City, Haidian District, Beijing / 北京市海淀区中关村科学城 | ai, open-source | ZH/EN | Free / 免费 |
 
