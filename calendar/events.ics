@@ -55,6 +55,24 @@ DESCRIPTION:The 23rd China International Semiconductor Expo\, a semicondu
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-13-agentic-infra-os-conference-openeuler-summit-2026@beijing-
+ events
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Inf
+ ra 操作系统大会
+LOCATION:ZGC International Innovation Center\, Beijing / 北京中关村
+ 国际创新中心
+URL:https://www.openeuler.org/en/interaction/summit-list/summit2026/
+DESCRIPTION:Operating systems for agentic AI: SuperPoD OS\, infrastructur
+ e\, keynotes\, panels and hands-on demos. / 聚焦 Agentic AI 操作系
+ 统底座、超节点 OS 与基础设施，设主题演讲、圆桌及体
+ 验展示。\n\nhttps://www.openeuler.org/en/interaction/summit-list/summ
+ it2026/
+CATEGORIES:ai,open-source,cloud
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-beijing-ai-tinkerers-meetup-call-for-demos-ai-tink@beijing
  -events
 DTSTAMP:20261114T000000Z
