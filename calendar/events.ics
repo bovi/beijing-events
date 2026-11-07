@@ -3,6 +3,8 @@ VERSION:2.0
 PRODID:-//beijing-events//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Beijing Tech Events
+X-WR-CALDESC:Upcoming tech events in Beijing\, maintained by the communit
+ y: https://github.com/bovi/beijing-events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:2026-11-06-jcrai-2026-robotics-and-artificial-intelligence@beijing-ev
@@ -17,7 +19,9 @@ URL:https://www.jcrai.org
 DESCRIPTION:Research conference on robotics and AI\, with keynote talks\,
   presentations and technical exchange. / 机器人与人工智能学术
  会议，包含主题报告、研究成果展示与技术交流。\n\nhtt
- ps://www.jcrai.org
+ ps://www.jcrai.org\n\nMore Beijing tech events / 更多北京科技活动
+ : https://github.com/bovi/beijing-events\nAdd an event / 添加活动: ht
+ tps://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +37,9 @@ DESCRIPTION:A 40+ hour hackathon covering AI\, robotics and spatial compu
  ting. Opening forum Nov 6 at 14:00\; hackathon Nov 6 19:00–Nov 8 17:30.
   / 40余小时黑客松，涵盖 AI、机器人与空间计算。11月6
  日14:00开幕，19:00开始黑客松，11月8日17:30结束。\n\nhttps:
- //hackjunction.cn
+ //hackjunction.cn\n\nMore Beijing tech events / 更多北京科技活动:
+  https://github.com/bovi/beijing-events\nAdd an event / 添加活动: htt
+ ps://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +57,9 @@ URL:http://www.icchinaexpo.com
 DESCRIPTION:The 23rd China International Semiconductor Expo\, a semicondu
  ctor industry exhibition in Beijing. / 第二十三届中国国际半导
  体博览会，北京半导体行业展会。\n\nhttp://www.icchinaexpo.c
- om
+ om\n\nMore Beijing tech events / 更多北京科技活动: https://github
+ .com/bovi/beijing-events\nAdd an event / 添加活动: https://github.com
+ /bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +77,9 @@ DESCRIPTION:Operating systems for agentic AI: SuperPoD OS\, infrastructur
  e\, keynotes\, panels and hands-on demos. / 聚焦 Agentic AI 操作系
  统底座、超节点 OS 与基础设施，设主题演讲、圆桌及体
  验展示。\n\nhttps://www.openeuler.org/en/interaction/summit-list/summ
- it2026/
+ it2026/\n\nMore Beijing tech events / 更多北京科技活动: https://g
+ ithub.com/bovi/beijing-events\nAdd an event / 添加活动: https://githu
+ b.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,open-source,cloud
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +97,10 @@ DESCRIPTION:Public open-source × AI festival with talks\, workshops\, co
  mmunity exhibits and hardware demos. Main stage starts 10:05\; Nov 13 is 
  invitation-only. / 11月14日公众开放日，含演讲、工作坊、
  社区展览与硬件体验；10:05主舞台开营。11月13日仅限受
- 邀人员。\n\nhttps://gotc.oschina.net
+ 邀人员。\n\nhttps://gotc.oschina.net\n\nMore Beijing tech events / 
+ 更多北京科技活动: https://github.com/bovi/beijing-events\nAdd an 
+ event / 添加活动: https://github.com/bovi/beijing-events/issues/new?t
+ emplate=new-event.yml
 CATEGORIES:ai,open-source,hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +122,10 @@ DESCRIPTION:Technical demo meetup on agents\, infrastructure\, multimodal
  eting. Chinese-led\; English welcome. 技术演示与交流，主题包
  括 Agent、基础设施、多模态和失败案例。欢迎带 demo 或
  问题；谢绝营销。中文为主，欢迎英语交流。\n\nhttps://w
- ww.meetup.com/ai-agents-meetup/events/317285288/
+ ww.meetup.com/ai-agents-meetup/events/317285288/\n\nMore Beijing tech eve
+ nts / 更多北京科技活动: https://github.com/bovi/beijing-events\nA
+ dd an event / 添加活动: https://github.com/bovi/beijing-events/issues
+ /new?template=new-event.yml
 CATEGORIES:ai,open-source
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +143,10 @@ DESCRIPTION:Choose one parallel track: embedded seminar 09:00–16:40 or
  edge-AI MCU workshop 13:30–17:30 (check-in 13:00). Covers safety\, secu
  rity\, wireless and motor control. / 并行会场二选一：嵌入式研
  讨会09:00–16:40，或边缘AI MCU实操13:30–17:30（13:00签到）
- 。\n\nhttps://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html
+ 。\n\nhttps://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html\n
+ \nMore Beijing tech events / 更多北京科技活动: https://github.com
+ /bovi/beijing-events\nAdd an event / 添加活动: https://github.com/bov
+ i/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:hardware,ai,security
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +162,10 @@ URL:https://iccad.xmtexpo.com/
 DESCRIPTION:IC industry exhibition and forums covering chip design\, EDA\
  , IP\, fabrication\, packaging\, testing and industry collaboration. / 
  集成电路产业展览与论坛，涵盖芯片设计、EDA、IP、制
- 造、封装测试及产业合作。\n\nhttps://iccad.xmtexpo.com/
+ 造、封装测试及产业合作。\n\nhttps://iccad.xmtexpo.com/\n\nMor
+ e Beijing tech events / 更多北京科技活动: https://github.com/bovi
+ /beijing-events\nAdd an event / 添加活动: https://github.com/bovi/bei
+ jing-events/issues/new?template=new-event.yml
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +181,10 @@ LOCATION:Alibaba Chaoyang Science Park\, Chaoyang\, 阿里巴巴朝阳科
 URL:https://t.aliyun.com/l9RNKZrR
 DESCRIPTION:别让 AI 成黑盒！深入解析 AgentLoop、UModel 与云
  监控 2.0，构建从任务质量到基础设施的完整 AI 观测闭
- 环。\n\nhttps://t.aliyun.com/l9RNKZrR
+ 环。\n\nhttps://t.aliyun.com/l9RNKZrR\n\nMore Beijing tech events / 更
+ 多北京科技活动: https://github.com/bovi/beijing-events\nAdd an eve
+ nt / 添加活动: https://github.com/bovi/beijing-events/issues/new?temp
+ late=new-event.yml
 CATEGORIES:ai,cloud
 END:VEVENT
 BEGIN:VEVENT
@@ -177,7 +202,10 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
  and Android sessions. Register via https://hdxu.cn/UABgd. / 智能体时
  代的开发者大会，涵盖 Google AI、Cloud 与 Android；请通过
  活动行报名：https://hdxu.cn/UABgd。\n\nhttps://gdg.community.dev/e
- vents/details/google-gdg-beijing-presents-2026-devfest-beijing/
+ vents/details/google-gdg-beijing-presents-2026-devfest-beijing/\n\nMore B
+ eijing tech events / 更多北京科技活动: https://github.com/bovi/be
+ ijing-events\nAdd an event / 添加活动: https://github.com/bovi/beijin
+ g-events/issues/new?template=new-event.yml
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
 BEGIN:VEVENT
@@ -195,7 +223,9 @@ DESCRIPTION:Technical talks on training\, inference\, acceleration\, phys
  event is Dec 12. / 分享训练、推理、硬件加速、物理AI及PyTo
  rch生态；议题征集11月10日23:59截止，活动于12月12日举行
  。\n\nhttps://pytorch.org/blog/final-call-for-proposals-pytorch-day-chin
- a-2026/
+ a-2026/\n\nMore Beijing tech events / 更多北京科技活动: https://g
+ ithub.com/bovi/beijing-events\nAdd an event / 添加活动: https://githu
+ b.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,open-source,hardware
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +240,10 @@ LOCATION:Crowne Plaza New Yunnan Hotel\, Beijing / 北京新云南皇冠
 URL:https://aicon.infoq.cn/202612/beijing/
 DESCRIPTION:Two-day AI development and application conference on agents\,
   inference infrastructure\, knowledge engineering\, AgentOps and post-tra
- ining.\n\nhttps://aicon.infoq.cn/202612/beijing/
+ ining.\n\nhttps://aicon.infoq.cn/202612/beijing/\n\nMore Beijing tech eve
+ nts / 更多北京科技活动: https://github.com/bovi/beijing-events\nA
+ dd an event / 添加活动: https://github.com/bovi/beijing-events/issues
+ /new?template=new-event.yml
 CATEGORIES:ai
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +260,9 @@ DESCRIPTION:Research conference on computer science and AI. Submission de
  adline Nov 15\; listener registration Dec 13. Official conference languag
  e: English. / 计算机科学与AI研究会议；投稿截止11月15日
  ，听众注册截止12月13日；官方语言为英语。\n\nhttps://www
- .csai.org/
+ .csai.org/\n\nMore Beijing tech events / 更多北京科技活动: https:
+ //github.com/bovi/beijing-events\nAdd an event / 添加活动: https://gi
+ thub.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,data,security
 END:VEVENT
 BEGIN:VEVENT
@@ -245,7 +280,9 @@ DESCRIPTION:One-day summit on AI agents\, AI-native products\, harness en
  gineering\, AI coding and startup trends\, with talks and networking. / 
  一日峰会，聚焦智能体、AI原生产品、Harness工程、AI编
  程与创业趋势，含演讲及现场交流。\n\nhttps://aimakersummit
- .com/2026/beijing
+ .com/2026/beijing\n\nMore Beijing tech events / 更多北京科技活动:
+  https://github.com/bovi/beijing-events\nAdd an event / 添加活动: htt
+ ps://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,startup
 END:VEVENT
 END:VCALENDAR

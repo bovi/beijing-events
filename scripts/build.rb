@@ -8,6 +8,9 @@ require_relative "../lib/beijing_events"
 START_MARK = "<!-- EVENTS:START -->"
 END_MARK = "<!-- EVENTS:END -->"
 ADD_URL = "#{BeijingEvents::REPO_URL}/issues/new?template=new-event.yml"
+# Appended to every calendar entry so shared or subscribed events lead people back to the repository.
+ICS_FOOTER = "More Beijing tech events / 更多北京科技活动: #{BeijingEvents::REPO_URL}\n" \
+             "Add an event / 添加活动: #{ADD_URL}"
 
 def cell(text) = text.to_s.gsub(/\s+/, " ").gsub("|", "\\|").strip
 
@@ -92,14 +95,16 @@ def ics_event(event)
   lines << "SUMMARY:#{ics_text(event.title)}"
   lines << "LOCATION:#{ics_text([event.location, event.address].compact.join(', '))}"
   lines << "URL:#{event.url}"
-  lines << "DESCRIPTION:#{ics_text([event.description, event.url].compact.join("\n\n"))}"
+  lines << "DESCRIPTION:#{ics_text([event.description, event.url, ICS_FOOTER].compact.join("\n\n"))}"
   lines << "CATEGORIES:#{event.categories.map { |c| ics_text(c) }.join(',')}"
   lines << "END:VEVENT"
 end
 
 def calendar(events)
   lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//beijing-events//EN", "CALSCALE:GREGORIAN",
-           "X-WR-CALNAME:Beijing Tech Events", "X-WR-TIMEZONE:Asia/Shanghai"]
+           "X-WR-CALNAME:Beijing Tech Events",
+           "X-WR-CALDESC:#{ics_text("Upcoming tech events in Beijing, maintained by the community: #{BeijingEvents::REPO_URL}")}",
+           "X-WR-TIMEZONE:Asia/Shanghai"]
   events.each { |event| lines.concat(ics_event(event)) }
   lines << "END:VCALENDAR"
   lines.map { |line| fold(line) }.join("\r\n") + "\r\n"
