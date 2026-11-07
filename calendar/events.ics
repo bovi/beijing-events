@@ -5,6 +5,22 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Beijing Tech Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+UID:2026-11-06-jcrai-2026-robotics-and-artificial-intelligence@beijing-ev
+ ents
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:JCRAI 2026: Robotics and Artificial Intelligence / 第六届机
+ 器人与人工智能国际联合会议
+LOCATION:Beijing\, China / 中国北京
+URL:https://www.jcrai.org
+DESCRIPTION:Research conference on robotics and AI\, with keynote talks\,
+  presentations and technical exchange. / 机器人与人工智能学术
+ 会议，包含主题报告、研究成果展示与技术交流。\n\nhtt
+ ps://www.jcrai.org
+CATEGORIES:ai,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-junction-china-2026-international-hackathon@beijing-events
 DTSTAMP:20261106T000000Z
 DTSTART:20261106T060000Z
