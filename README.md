@@ -38,6 +38,7 @@ All times are Beijing time (UTC+8).
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
 | Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
+| Fri Dec 18 – 19 | [AICon Beijing 2026 / 全球人工智能开发与应用大会 北京站](https://aicon.infoq.cn/202612/beijing/) | Crowne Plaza New Yunnan Hotel, Beijing / 北京新云南皇冠假日酒店 | ai | ZH |  |
 | Fri Dec 18 – 21 | [CSAI 2026: Computer Science and Artificial Intelligence / 第十届计算机科学与人工智能国际会议](https://www.csai.org/) | Beijing, China / 中国北京 | ai, data, security | EN | Listener / 听众: ¥1800; student / 学生: ¥1600; onsite fees higher / 现场注册另计 |
 | Sat Dec 26 | [AI Maker Summit 2026 Beijing / AI Maker Summit 2026 北京站](https://aimakersummit.com/2026/beijing) | Crowne Plaza Beijing Chaoyang U-Town / 北京朝阳悠唐皇冠假日酒店 | ai, startup |  | Advertised discount / 官网优惠票: ¥399; ticket tiers vary / 票档以购票页为准 |
 <!-- EVENTS:END -->

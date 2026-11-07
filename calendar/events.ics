@@ -199,6 +199,21 @@ DESCRIPTION:Technical talks on training\, inference\, acceleration\, phys
 CATEGORIES:ai,open-source,hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-aicon-beijing-2026@beijing-events
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261220
+SUMMARY:AICon Beijing 2026 / 全球人工智能开发与应用大会 北
+ 京站
+LOCATION:Crowne Plaza New Yunnan Hotel\, Beijing / 北京新云南皇冠
+ 假日酒店
+URL:https://aicon.infoq.cn/202612/beijing/
+DESCRIPTION:Two-day AI development and application conference on agents\,
+  inference infrastructure\, knowledge engineering\, AgentOps and post-tra
+ ining.\n\nhttps://aicon.infoq.cn/202612/beijing/
+CATEGORIES:ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-csai-2026-computer-science-and-artificial-intellig@beijing
  -events
 DTSTAMP:20261218T000000Z
