@@ -162,4 +162,22 @@ DESCRIPTION:别让 AI 成黑盒！深入解析 AgentLoop、UModel 与云
  环。\n\nhttps://t.aliyun.com/l9RNKZrR
 CATEGORIES:ai,cloud
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-devfest-beijing-2026-devfest-2026@beijing-events
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T013000Z
+DTEND:20261122T100000Z
+SUMMARY:DevFest Beijing 2026 / 北京 DevFest 2026
+LOCATION:Jingyi Hotel\, Haidian\, Beijing / 北京京仪大酒店，海
+ 淀区\, No. 9 Dazhongsi East Road\, Haidian / 北京市海淀区大钟
+ 寺东路9号
+URL:https://gdg.community.dev/events/details/google-gdg-beijing-presents-
+ 2026-devfest-beijing/
+DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud 
+ and Android sessions. Register via https://hdxu.cn/UABgd. / 智能体时
+ 代的开发者大会，涵盖 Google AI、Cloud 与 Android；请通过
+ 活动行报名：https://hdxu.cn/UABgd。\n\nhttps://gdg.community.dev/e
+ vents/details/google-gdg-beijing-presents-2026-devfest-beijing/
+CATEGORIES:ai,cloud,mobile,web
+END:VEVENT
 END:VCALENDAR
