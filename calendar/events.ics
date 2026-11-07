@@ -198,4 +198,21 @@ DESCRIPTION:Technical talks on training\, inference\, acceleration\, phys
  a-2026/
 CATEGORIES:ai,open-source,hardware
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-csai-2026-computer-science-and-artificial-intellig@beijing
+ -events
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261222
+SUMMARY:CSAI 2026: Computer Science and Artificial Intelligence / 第十
+ 届计算机科学与人工智能国际会议
+LOCATION:Beijing\, China / 中国北京
+URL:https://www.csai.org/
+DESCRIPTION:Research conference on computer science and AI. Submission de
+ adline Nov 15\; listener registration Dec 13. Official conference languag
+ e: English. / 计算机科学与AI研究会议；投稿截止11月15日
+ ，听众注册截止12月13日；官方语言为英语。\n\nhttps://www
+ .csai.org/
+CATEGORIES:ai,data,security
+END:VEVENT
 END:VCALENDAR

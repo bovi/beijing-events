@@ -38,6 +38,7 @@ All times are Beijing time (UTC+8).
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
 | Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
+| Fri Dec 18 – 21 | [CSAI 2026: Computer Science and Artificial Intelligence / 第十届计算机科学与人工智能国际会议](https://www.csai.org/) | Beijing, China / 中国北京 | ai, data, security | EN | Listener / 听众: ¥1800; student / 学生: ¥1600; onsite fees higher / 现场注册另计 |
 <!-- EVENTS:END -->
 
 ## Add an event · 添加活动
