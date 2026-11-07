@@ -13,6 +13,12 @@ Upcoming tech events in Beijing: meetups, conferences, hackathons, workshops. Ma
 All times are Beijing time (UTC+8).
 
 <!-- EVENTS:START -->
+### Next 7 days
+
+| When | Event | Where | Topics | Lang | Price |
+|---|---|---|---|---|---|
+| Sat Nov 14, 13:30-17:30 | [Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers Meetup Call for Demos](https://www.meetup.com/ai-agents-meetup/events/317285288/) | Zhongguancun Science City, Haidian District, Beijing / 北京市海淀区中关村科学城 | ai, open-source | ZH/EN | Free / 免费 |
+
 ### Next 30 days
 
 | When | Event | Where | Topics | Lang | Price |

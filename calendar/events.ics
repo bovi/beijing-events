@@ -5,6 +5,28 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Beijing Tech Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+UID:2026-11-14-beijing-ai-tinkerers-meetup-call-for-demos-ai-tink@beijing
+ -events
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T053000Z
+DTEND:20261114T093000Z
+SUMMARY:Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers
+  Meetup Call for Demos
+LOCATION:Zhongguancun Science City\, Haidian District\, Beijing / 北京
+ 市海淀区中关村科学城\, Roadshow Hall\, 5th Floor\, China Techno
+ logy Exchange Building\, Zhongguancun Science City International Innovati
+ on Service Cluster / 中国技术交易大厦5层中关村科学城国际
+ 创新服务集聚区路演厅
+URL:https://www.meetup.com/ai-agents-meetup/events/317285288/
+DESCRIPTION:Technical demo meetup on agents\, infrastructure\, multimodal
+  projects\, and lessons from failures. Bring a demo or question\; no mark
+ eting. Chinese-led\; English welcome. 技术演示与交流，主题包
+ 括 Agent、基础设施、多模态和失败案例。欢迎带 demo 或
+ 问题；谢绝营销。中文为主，欢迎英语交流。\n\nhttps://w
+ ww.meetup.com/ai-agents-meetup/events/317285288/
+CATEGORIES:ai,open-source
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-alibaba-cloud-ai-full-stack-observability-salon-ai@beijing
  -events
 DTSTAMP:20261120T000000Z
