@@ -32,6 +32,12 @@ All times are Beijing time (UTC+8).
 | Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 | Sun Nov 22, 09:30-18:00 | [DevFest Beijing 2026 / 北京 DevFest 2026](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) | Jingyi Hotel, Haidian, Beijing / 北京京仪大酒店，海淀区 | ai, cloud, mobile, web |  |  |
+
+### Later
+
+| When | Event | Where | Topics | Lang | Price |
+|---|---|---|---|---|---|
+| Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
 <!-- EVENTS:END -->
 
 ## Add an event · 添加活动

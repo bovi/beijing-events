@@ -180,4 +180,22 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
  vents/details/google-gdg-beijing-presents-2026-devfest-beijing/
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-pytorch-day-china-2026-pytorch@beijing-events
+DTSTAMP:20261212T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:PyTorch Day China 2026 / PyTorch 中国开发者日
+LOCATION:Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴
+ 巴北京朝阳科技园
+URL:https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2
+ 026/
+DESCRIPTION:Technical talks on training\, inference\, acceleration\, phys
+ ical AI and the PyTorch ecosystem. CFP closes Nov 10\, 23:59 UTC+8\; the 
+ event is Dec 12. / 分享训练、推理、硬件加速、物理AI及PyTo
+ rch生态；议题征集11月10日23:59截止，活动于12月12日举行
+ 。\n\nhttps://pytorch.org/blog/final-call-for-proposals-pytorch-day-chin
+ a-2026/
+CATEGORIES:ai,open-source,hardware
+END:VEVENT
 END:VCALENDAR
