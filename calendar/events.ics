@@ -215,4 +215,22 @@ DESCRIPTION:Research conference on computer science and AI. Submission de
  .csai.org/
 CATEGORIES:ai,data,security
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-ai-maker-summit-2026-beijing-ai-maker-summit-2026@beijing-
+ events
+DTSTAMP:20261226T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:AI Maker Summit 2026 Beijing / AI Maker Summit 2026 北京站
+LOCATION:Crowne Plaza Beijing Chaoyang U-Town / 北京朝阳悠唐皇冠
+ 假日酒店\, No. 3 Sanfeng Beili\, Chaoyang\, Beijing / 北京市朝阳
+ 区三丰北里3号
+URL:https://aimakersummit.com/2026/beijing
+DESCRIPTION:One-day summit on AI agents\, AI-native products\, harness en
+ gineering\, AI coding and startup trends\, with talks and networking. / 
+ 一日峰会，聚焦智能体、AI原生产品、Harness工程、AI编
+ 程与创业趋势，含演讲及现场交流。\n\nhttps://aimakersummit
+ .com/2026/beijing
+CATEGORIES:ai,startup
+END:VEVENT
 END:VCALENDAR
