@@ -33,22 +33,32 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - name: Build discovery prompt
         env:
           GH_TOKEN: ${{ github.token }}
         run: ruby scripts/discover_events.rb prompt
+      - uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
       - name: Install Copilot CLI
         run: npm install -g @github/copilot
+      # The AI reads untrusted web pages, so it may only write its result file
+      # (scripts it could otherwise edit run later with the PAT) and has no shell.
       - name: Search the web for new events
         env:
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_CLI_TOKEN }}
         run: |
           copilot -p "$(cat tmp/discovery_prompt.md)" \
-            --allow-tool write \
+            --no-ask-user \
+            --allow-all-urls \
+            --allow-tool 'write(tmp/discovered_events.json)' \
             --allow-tool web_fetch \
             --allow-tool web_search \
-            --allow-tool 'github-mcp-server-web_search' \
+            --allow-tool 'github-mcp-server(web_search)' \
             --deny-tool shell
+          echo "Discovered:" && cat tmp/discovered_events.json
       - name: Ensure ai-discovered label exists
         env:
           GH_TOKEN: ${{ github.token }}
