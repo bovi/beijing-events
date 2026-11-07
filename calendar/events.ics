@@ -131,6 +131,22 @@ DESCRIPTION:Choose one parallel track: embedded seminar 09:00–16:40 or
 CATEGORIES:hardware,ai,security
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-iccad-expo-2026-ic-design-exhibition@beijing-events
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展
+ 览会
+LOCATION:Beiren Etrong International Exhibition & Convention Center\, Yiz
+ huang\, Beijing / 北京亦庄北人亦创国际会展中心
+URL:https://iccad.xmtexpo.com/
+DESCRIPTION:IC industry exhibition and forums covering chip design\, EDA\
+ , IP\, fabrication\, packaging\, testing and industry collaboration. / 
+ 集成电路产业展览与论坛，涵盖芯片设计、EDA、IP、制
+ 造、封装测试及产业合作。\n\nhttps://iccad.xmtexpo.com/
+CATEGORIES:hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-alibaba-cloud-ai-full-stack-observability-salon-ai@beijing
  -events
 DTSTAMP:20261120T000000Z
