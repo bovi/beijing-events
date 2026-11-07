@@ -47,6 +47,8 @@ All times are Beijing time (UTC+8).
 1. **Easiest:** [fill in the form](https://github.com/bovi/beijing-events/issues/new?template=new-event.yml). A pull request is created for you automatically.
    **最简单：** 填写表单即可，系统会自动创建 Pull Request。
 2. **Or** copy [events/_template.yml](events/_template.yml) to `events/YYYY/YYYY-MM-DD-short-title.yml` and open a pull request.
+3. **Automatic:** a [daily workflow](.github/workflows/discover-events.yml) also searches the web with AI and files an issue for each new event it finds (labeled `ai-discovered`).
+   **自动：** 每天有一个工作流借助 AI 在网上搜索新活动，并自动创建 Issue（标签为 `ai-discovered`）。
 
 The tables above are generated from the files in [events/](events/). Please don't edit them by hand.
 上面的表格由 `events/` 目录自动生成，请勿手动修改。

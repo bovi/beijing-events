@@ -1,0 +1,60 @@
+name: Discover events
+
+# Daily AI scout: Copilot CLI searches the web for new tech events in Beijing
+# and an issue labeled "new-event" is opened for each one, so the existing
+# issue-to-pr pipeline takes over (issue -> event file -> pull request).
+#
+# Setup: add a repository secret COPILOT_CLI_TOKEN containing a fine-grained
+# personal access token of an account with a Copilot subscription, with
+#   - account permission "Copilot Requests" (read-only) - lets the workflow use Copilot
+#   - repository permission "Issues" (read and write) on this repository -
+#     issues are created with this PAT instead of GITHUB_TOKEN, because issues
+#     created with GITHUB_TOKEN would not trigger the issue-to-pr workflow.
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # 10:00 Beijing time
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Only report what would be created, without opening issues
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency: discover-events
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build discovery prompt
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ruby scripts/discover_events.rb prompt
+      - name: Install Copilot CLI
+        run: npm install -g @github/copilot
+      - name: Search the web for new events
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_CLI_TOKEN }}
+        run: |
+          copilot -p "$(cat tmp/discovery_prompt.md)" \
+            --allow-tool write \
+            --allow-tool web_fetch \
+            --allow-tool web_search \
+            --allow-tool 'github-mcp-server-web_search' \
+            --deny-tool shell
+      - name: Ensure ai-discovered label exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh label create ai-discovered --color BFD4F2 --description "Event found by the daily discovery workflow" --force
+      - name: Create issues for new events
+        env:
+          GH_TOKEN: ${{ secrets.COPILOT_CLI_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: ruby scripts/discover_events.rb issues

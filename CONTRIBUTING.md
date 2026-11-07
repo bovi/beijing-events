@@ -20,6 +20,18 @@ Tech-related events in Beijing (or online events organized by Beijing communitie
 
 Don't edit the tables in `README.md`, `calendar/` or `past/`. They are regenerated automatically after merge.
 
+## Automatic discovery
+
+Once a day the [discover-events workflow](.github/workflows/discover-events.yml) uses GitHub Copilot CLI to search the web for upcoming tech events in Beijing. Events that are not yet listed (and not already tracked in an issue or pull request) are filed as `new-event` issues labeled `ai-discovered`, and the normal issue-to-PR pipeline takes over. Every event still goes through pull request review before it appears in the list.
+
+Notes for maintainers:
+
+- The workflow needs the `COPILOT_CLI_TOKEN` repository secret: a fine-grained PAT of an account with a Copilot subscription, with the account permission **Copilot Requests** and **Issues: read and write** on this repository. The PAT (not `GITHUB_TOKEN`) creates the issues so that the issue-to-PR workflow is triggered.
+- Each run uses premium requests from that account's Copilot plan.
+- Test it from the Actions tab with **Run workflow** and *dry run* enabled: the job summary lists what would be created without opening issues.
+- The script verifies every event URL and skips duplicates, but WeChat-only events are invisible to it - those still need humans.
+- If the bot filed something wrong, close the issue; it will not be re-filed (closed `new-event` issues count as known).
+
 ### Check locally (optional)
 
 Only Ruby is needed, no gems:
