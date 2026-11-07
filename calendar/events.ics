@@ -73,6 +73,24 @@ DESCRIPTION:Operating systems for agentic AI: SuperPoD OS\, infrastructur
 CATEGORIES:ai,open-source,cloud
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-14-gotc-2026-global-open-source-technology-conference@beijing
+ -events
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T020000Z
+DTEND:20261114T090000Z
+SUMMARY:GOTC 2026: Global Open Source Technology Conference / 全球开
+ 源技术峰会
+LOCATION:Tongming Lake Convention Center\, Yizhuang\, Beijing / 北京亦
+ 庄通明湖会展中心
+URL:https://gotc.oschina.net
+DESCRIPTION:Public open-source × AI festival with talks\, workshops\, co
+ mmunity exhibits and hardware demos. Main stage starts 10:05\; Nov 13 is 
+ invitation-only. / 11月14日公众开放日，含演讲、工作坊、
+ 社区展览与硬件体验；10:05主舞台开营。11月13日仅限受
+ 邀人员。\n\nhttps://gotc.oschina.net
+CATEGORIES:ai,open-source,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-beijing-ai-tinkerers-meetup-call-for-demos-ai-tink@beijing
  -events
 DTSTAMP:20261114T000000Z

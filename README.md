@@ -21,6 +21,7 @@ All times are Beijing time (UTC+8).
 | Fri Nov 6 – 8, 14:00-17:30 | [Junction China 2026 International Hackathon / 国际黑客松](https://hackjunction.cn) | ZGC International Technology Trade Center, Beijing / 北京中关村国际技术交易中心 | ai, hardware |  | Free / 免费 |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](http://www.icchinaexpo.com) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
 | Fri Nov 13 – 14 | [Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Infra 操作系统大会](https://www.openeuler.org/en/interaction/summit-list/summit2026/) | ZGC International Innovation Center, Beijing / 北京中关村国际创新中心 | ai, open-source, cloud |  |  |
+| Sat Nov 14, 10:00-17:00 | [GOTC 2026: Global Open Source Technology Conference / 全球开源技术峰会](https://gotc.oschina.net) | Tongming Lake Convention Center, Yizhuang, Beijing / 北京亦庄通明湖会展中心 | ai, open-source, hardware |  | Free / 免费 |
 | Sat Nov 14, 13:30-17:30 | [Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers Meetup Call for Demos](https://www.meetup.com/ai-agents-meetup/events/317285288/) | Zhongguancun Science City, Haidian District, Beijing / 北京市海淀区中关村科学城 | ai, open-source | ZH/EN | Free / 免费 |
 
 ### Next 30 days
