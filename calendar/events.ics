@@ -113,6 +113,24 @@ DESCRIPTION:Technical demo meetup on agents\, infrastructure\, multimodal
 CATEGORIES:ai,open-source
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-17-ti-embedded-labs-2026-beijing-ti@beijing-events
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T010000Z
+DTEND:20261117T093000Z
+SUMMARY:TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会
+ 北京站
+LOCATION:InterContinental Beijing Beichen\, Chaoyang / 北京北辰洲际
+ 酒店，朝阳区\, Building 4\, No. 8 Beichen West Road\, Chaoyang / 
+ 北京市朝阳区北辰西路8号院4号楼
+URL:https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html
+DESCRIPTION:Choose one parallel track: embedded seminar 09:00–16:40 or 
+ edge-AI MCU workshop 13:30–17:30 (check-in 13:00). Covers safety\, secu
+ rity\, wireless and motor control. / 并行会场二选一：嵌入式研
+ 讨会09:00–16:40，或边缘AI MCU实操13:30–17:30（13:00签到）
+ 。\n\nhttps://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html
+CATEGORIES:hardware,ai,security
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-alibaba-cloud-ai-full-stack-observability-salon-ai@beijing
  -events
 DTSTAMP:20261120T000000Z
