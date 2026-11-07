@@ -13,7 +13,7 @@ name: Discover events
 
 on:
   schedule:
-    - cron: "0 2 * * *" # 10:00 Beijing time
+    - cron: "0 18 * * *" # 02:00 Beijing time (UTC+8)
   workflow_dispatch:
     inputs:
       dry_run:
