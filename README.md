@@ -17,8 +17,6 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Fri Nov 6 – 8 | [JCRAI 2026: Robotics and Artificial Intelligence / 第六届机器人与人工智能国际联合会议](https://www.jcrai.org) | Beijing, China / 中国北京 | ai, hardware |  | Listener / 听众: ¥1800 (US$250); author fees vary / 作者注册费另计 |
-| Fri Nov 6 – 8, 14:00-17:30 | [Junction China 2026 International Hackathon / 国际黑客松](https://hackjunction.cn) | ZGC International Technology Trade Center, Beijing / 北京中关村国际技术交易中心 | ai, hardware |  | Free / 免费 |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](https://www.ic-china.com.cn/) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
 | Fri Nov 13 – 14 | [Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Infra 操作系统大会](https://www.openeuler.org/en/interaction/summit-list/summit2026/) | ZGC International Innovation Center, Beijing / 北京中关村国际创新中心 | ai, open-source, cloud |  |  |
 | Sat Nov 14, 10:00-17:00 | [GOTC 2026: Global Open Source Technology Conference / 全球开源技术峰会](https://gotc.oschina.net) | Tongming Lake Convention Center, Yizhuang, Beijing / 北京亦庄通明湖会展中心 | ai, open-source, hardware |  | Free / 免费 |
