@@ -209,6 +209,24 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-2026-software-technology-conference-2026@beijing-events
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T100000Z
+SUMMARY:2026 Software Technology Conference / 2026软件技术大会
+LOCATION:Beijing / 北京
+URL:https://itknowledgezone.com/cn/event/2026-software-technology-confere
+ nce/
+DESCRIPTION:Annual software technology conference with keynotes and five 
+ parallel forums on AI agents\, data infrastructure\, AI-native architectu
+ re\, software engineering and fintech.\n\nhttps://itknowledgezone.com/cn/
+ event/2026-software-technology-conference/\n\nMore Beijing tech events / 
+ 更多北京科技活动: https://github.com/bovi/beijing-events\nAdd an 
+ event / 添加活动: https://github.com/bovi/beijing-events/issues/new?t
+ emplate=new-event.yml
+CATEGORIES:ai,data,other
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-pytorch-day-china-2026-pytorch@beijing-events
 DTSTAMP:20261212T000000Z
 DTSTART;VALUE=DATE:20261212
