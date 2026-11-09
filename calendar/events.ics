@@ -189,6 +189,25 @@ DESCRIPTION:IC industry exhibition and forums covering chip design\, EDA\
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-beijing-ai-creators-conference-2026-ai@beijing-events
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T010000Z
+DTEND:20261120T090000Z
+SUMMARY:Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创
+ 造者大会
+LOCATION:Grand Metropark Hotel Beijing / 北京维景国际大酒店
+URL:https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg
+DESCRIPTION:AI agents\, product delivery\, creator businesses and globali
+ zation. Free registration via the embedded UniqueBloom mini-program card.
+  / AI智能体、产品交付、创作者经营与全球化；通过微
+ 信原文嵌入的UniqueBloom小程序活动卡片免费报名。\n\nhttp
+ s://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg\n\nMore Beijing tech events
+  / 更多北京科技活动: https://github.com/bovi/beijing-events\nAdd 
+ an event / 添加活动: https://github.com/bovi/beijing-events/issues/ne
+ w?template=new-event.yml
+CATEGORIES:ai,startup
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-alibaba-cloud-ai-full-stack-observability-salon-ai@beijing
  -events
 DTSTAMP:20261120T000000Z

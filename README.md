@@ -29,6 +29,7 @@ All times are Beijing time (UTC+8).
 |---|---|---|---|---|---|
 | Tue Nov 17, 09:00-17:30 | [TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会北京站](https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html) | InterContinental Beijing Beichen, Chaoyang / 北京北辰洲际酒店，朝阳区 | hardware, ai, security |  | Free / 免费 |
 | Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
+| Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 | Sun Nov 22, 09:30-18:00 | [DevFest Beijing 2026 / 北京 DevFest 2026](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) | Jingyi Hotel, Haidian, Beijing / 北京京仪大酒店，海淀区 | ai, cloud, mobile, web |  |  |
 | Fri Nov 27 – 28 | [Embedded C Programming Workshop / 嵌入式C语言高质量编程实战技术高级研修班](https://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA) | Beijing; exact venue not announced / 北京，具体会场未公布 | hardware |  | ¥3,990 per person / 每人3990元 |
