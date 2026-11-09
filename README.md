@@ -17,6 +17,7 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
+| Tue Nov 10, 09:00-15:30 | [OSCAR 2026: Open Source Industry Conference / OSCAR开源产业大会](https://mp.weixin.qq.com/s/VHi5efVO3CYU_RMywNQgHg) | Zhongguancun National Innovation Demonstration Zone Exhibition & Trading Center, Conference Center, Beijing / 北京中关村国家自主创新示范区展示交易中心-会议中心 | open-source, ai |  |  |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](https://www.ic-china.com.cn/) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
 | Fri Nov 13 – 14 | [Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Infra 操作系统大会](https://www.openeuler.org/en/interaction/summit-list/summit2026/) | ZGC International Innovation Center, Beijing / 北京中关村国际创新中心 | ai, open-source, cloud |  |  |
 | Sat Nov 14, 10:00-17:00 | [GOTC 2026: Global Open Source Technology Conference / 全球开源技术峰会](https://gotc.oschina.net) | Tongming Lake Convention Center, Yizhuang, Beijing / 北京亦庄通明湖会展中心 | ai, open-source, hardware |  | Free / 免费 |

@@ -43,6 +43,26 @@ DESCRIPTION:A 40+ hour hackathon covering AI\, robotics and spatial compu
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-10-oscar-2026-open-source-industry-conference-oscar@beijing-e
+ vents
+DTSTAMP:20261110T000000Z
+DTSTART:20261110T010000Z
+DTEND:20261110T073000Z
+SUMMARY:OSCAR 2026: Open Source Industry Conference / OSCAR开源产业
+ 大会
+LOCATION:Zhongguancun National Innovation Demonstration Zone Exhibition &
+  Trading Center\, Conference Center\, Beijing / 北京中关村国家自
+ 主创新示范区展示交易中心-会议中心
+URL:https://mp.weixin.qq.com/s/VHi5efVO3CYU_RMywNQgHg
+DESCRIPTION:Open source and AI infrastructure\; register via the QR in th
+ e source. Price unconfirmed. / 开源与AI基础设施大会；报名见
+ 原文二维码，费用未确认。\n\nhttps://mp.weixin.qq.com/s/VHi5ef
+ VO3CYU_RMywNQgHg\n\nMore Beijing tech events / 更多北京科技活动: 
+ https://github.com/bovi/beijing-events\nAdd an event / 添加活动: http
+ s://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:open-source,ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-12-ic-china-2026-23rd-china-international-semiconduct@beijing
  -events
 DTSTAMP:20261112T000000Z
