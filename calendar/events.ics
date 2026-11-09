@@ -229,6 +229,26 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-embedded-c-programming-workshop-c@beijing-events
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:Embedded C Programming Workshop / 嵌入式C语言高质量编程
+ 实战技术高级研修班
+LOCATION:Beijing\; exact venue not announced / 北京，具体会场未
+ 公布
+URL:https://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA
+DESCRIPTION:Paid embedded C/RTOS workshop. ¥3990 includes training\, lun
+ ch and materials\; other meals/lodging extra. Venue/hours TBA\; inquiries
+  010-64113137. / 嵌入式C/RTOS付费培训，3990元含培训、午餐
+ 及资料，其他食宿自理。会场、时段待定；咨询010-641131
+ 37。\n\nhttps://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA\n\nMore Beijin
+ g tech events / 更多北京科技活动: https://github.com/bovi/beijing
+ -events\nAdd an event / 添加活动: https://github.com/bovi/beijing-eve
+ nts/issues/new?template=new-event.yml
+CATEGORIES:hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-2026-software-technology-conference-2026@beijing-events
 DTSTAMP:20261211T000000Z
 DTSTART:20261211T010000Z
