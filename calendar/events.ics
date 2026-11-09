@@ -83,6 +83,27 @@ DESCRIPTION:The 23rd China International Semiconductor Expo\, a semicondu
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-12-mefi-2026-medical-engineering-integration-conferen@beijing
+ -events
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:MEFI 2026: Medical-Engineering Integration Conference / 医工融
+ 合未来产业大会
+LOCATION:Kuntai Jiarui Cultural Center\, Chaoyang\, Beijing / 昆泰·嘉
+ 瑞文化中心，北京市朝阳区
+URL:https://mp.weixin.qq.com/s/JU2FQdLokoVhPCQthaWRaA
+DESCRIPTION:Surgical robotics\, brain-computer interfaces and rehabilitat
+ ion robotics. Registration QR in the latest guide\; hours and price uncon
+ firmed. / 手术机器人、脑机接口与康养机器人大会。报名
+ 二维码见最新指南；时段、费用未确认。\n\nhttps://mp.weix
+ in.qq.com/s/JU2FQdLokoVhPCQthaWRaA\n\nMore Beijing tech events / 更多
+ 北京科技活动: https://github.com/bovi/beijing-events\nAdd an event 
+ / 添加活动: https://github.com/bovi/beijing-events/issues/new?templat
+ e=new-event.yml
+CATEGORIES:hardware,ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-agentic-infra-os-conference-openeuler-summit-2026@beijing-
  events
 DTSTAMP:20261113T000000Z
