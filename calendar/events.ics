@@ -67,7 +67,6 @@ UID:2026-11-11-8th-chuangye-zhixin-competition-beijing-ai-track@beijing-e
  vents
 DTSTAMP:20261111T000000Z
 DTSTART:20261111T053000Z
-DTEND:20261111T073000Z
 SUMMARY:8th Chuangye Zhixin Competition: Beijing AI Track / 第八届创
  业之芯大赛北京人工智能专项赛
 LOCATION:Zhongguancun Industrial Internet Industrial Park\, Shijingshan /
@@ -78,11 +77,11 @@ URL:https://mp.weixin.qq.com/s/A8wiZblV4AA90nMPUwMlcg
 DESCRIPTION:AI\, embodied intelligence and semiconductor competition\; at
  tendee/project registration links in source notes. End time and price unc
  onfirmed. / 人工智能、具身智能及半导体赛事；观众与项
- 目报名链接见来源说明。结束时间及费用未确认。\n\nhtt
- ps://mp.weixin.qq.com/s/A8wiZblV4AA90nMPUwMlcg\n\nMore Beijing tech event
- s / 更多北京科技活动: https://github.com/bovi/beijing-events\nAdd
-  an event / 添加活动: https://github.com/bovi/beijing-events/issues/n
- ew?template=new-event.yml
+ 目报名链接见来源说明。结束时间及费用未确认。\n\nEnd
+  time unconfirmed / 结束时间未确认\n\nhttps://mp.weixin.qq.com/s/A
+ 8wiZblV4AA90nMPUwMlcg\n\nMore Beijing tech events / 更多北京科技活
+ 动: https://github.com/bovi/beijing-events\nAdd an event / 添加活动:
+  https://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
