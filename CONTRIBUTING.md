@@ -39,6 +39,7 @@ Only Ruby is needed, no gems:
 ```sh
 ruby scripts/validate.rb events/2026/2026-11-15-ai-builders-meetup.yml
 ruby scripts/build.rb   # preview the README tables
+ruby tests/calendar_test.rb # calendar timing regression tests
 ```
 
 ## Fields
@@ -60,3 +61,9 @@ ruby scripts/build.rb   # preview the README tables
 | `description` | no | max 300 chars |
 
 Updating or cancelling an event? Edit or delete its file in a pull request.
+
+### Unknown end times · 结束时间未确认
+
+Use a start-only `time`, such as `"13:30"`, when the organizer has not announced an end time. The calendar keeps the start, omits `DTEND` and adds an English/Chinese note that the end time is unconfirmed. Calendar apps may display their own default duration; it is not an organizer-confirmed end time. Do not invent a time range.
+
+主办方未公布结束时间时，只填写开始时间，例如 `"13:30"`。日历保留开始时间，不生成 `DTEND`，并添加“结束时间未确认”的中英文说明。日历客户端可能自行显示默认时长，该时长不代表主办方确认的结束时间。请勿编造时间范围。

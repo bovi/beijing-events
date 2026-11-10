@@ -84,10 +84,14 @@ def ics_event(event)
   if event.time
     from, to = event.time.split("-")
     starts = beijing_time(event.date, from)
-    ends = beijing_time(event.end_date, to || from)
-    ends += 2 * 3600 unless to
-    ends += 24 * 3600 if ends <= starts
-    lines << "DTSTART:#{utc.call(starts)}" << "DTEND:#{utc.call(ends)}"
+    lines << "DTSTART:#{utc.call(starts)}"
+    # A start-only time is not a two-hour booking. Omit DTEND (RFC 5545)
+    # rather than publish an organizer-unconfirmed finish time.
+    if to
+      ends = beijing_time(event.end_date, to)
+      ends += 24 * 3600 if ends <= starts
+      lines << "DTEND:#{utc.call(ends)}"
+    end
   else
     lines << "DTSTART;VALUE=DATE:#{event.date.strftime('%Y%m%d')}"
     lines << "DTEND;VALUE=DATE:#{(event.end_date + 1).strftime('%Y%m%d')}"
@@ -95,7 +99,8 @@ def ics_event(event)
   lines << "SUMMARY:#{ics_text(event.title)}"
   lines << "LOCATION:#{ics_text([event.location, event.address].compact.join(', '))}"
   lines << "URL:#{event.url}"
-  lines << "DESCRIPTION:#{ics_text([event.description, event.url, ICS_FOOTER].compact.join("\n\n"))}"
+  timing_note = "End time unconfirmed / 结束时间未确认" if event.time && !event.time.include?("-")
+  lines << "DESCRIPTION:#{ics_text([event.description, timing_note, event.url, ICS_FOOTER].compact.join("\n\n"))}"
   lines << "CATEGORIES:#{event.categories.map { |c| ics_text(c) }.join(',')}"
   lines << "END:VEVENT"
 end

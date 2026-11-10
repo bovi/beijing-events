@@ -25,5 +25,7 @@ jobs:
           else
             ruby scripts/validate.rb
           fi
+      - name: Test calendar timing
+        run: ruby tests/calendar_test.rb
       - name: Check that the build works
         run: ruby scripts/build.rb
