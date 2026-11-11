@@ -146,6 +146,27 @@ DESCRIPTION:Operating systems for agentic AI: SuperPoD OS\, infrastructur
 CATEGORIES:ai,open-source,cloud
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-13-mocheng-x-tsinghua-maker-hardware-hackathon-x@beijing-even
+ ts
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Mocheng x Tsinghua Maker Hardware Hackathon / 莫测智能 x 清
+ 华创客黑客松
+LOCATION:Ziqiang Science & Technology Building\, Tsinghua University\, Ha
+ idian / 北京海淀清华大学自强科技楼\, 北京市海淀区明
+ 德路 清华大学自强科技楼
+URL:https://hackertrip.cn/hackathon/ht-41fe79370e8746c79b983b82764635a7
+DESCRIPTION:Three-day 'Vibe Building' hardware hackathon: teams of 5 use 
+ AI hardware design tools and 30+ modules to build working prototypes. Dem
+ o\, roundtable and awards on day 3.\n\nhttps://hackertrip.cn/hackathon/ht
+ -41fe79370e8746c79b983b82764635a7\n\nMore Beijing tech events / 更多北
+ 京科技活动: https://github.com/bovi/beijing-events\nAdd an event / 
+ 添加活动: https://github.com/bovi/beijing-events/issues/new?template=
+ new-event.yml
+CATEGORIES:hardware,ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-gotc-2026-global-open-source-technology-conference@beijing
  -events
 DTSTAMP:20261114T000000Z
