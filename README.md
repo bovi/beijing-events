@@ -24,6 +24,7 @@ All times are Beijing time (UTC+8).
 | Fri Nov 13 – 15 | [Mocheng x Tsinghua Maker Hardware Hackathon / 莫测智能 x 清华创客黑客松](https://hackertrip.cn/hackathon/ht-41fe79370e8746c79b983b82764635a7) | Ziqiang Science & Technology Building, Tsinghua University, Haidian / 北京海淀清华大学自强科技楼 | hardware, ai | ZH | Free / 免费 |
 | Sat Nov 14, 10:00-17:00 | [GOTC 2026: Global Open Source Technology Conference / 全球开源技术峰会](https://gotc.oschina.net) | Tongming Lake Convention Center, Yizhuang, Beijing / 北京亦庄通明湖会展中心 | ai, open-source, hardware |  | Free / 免费 |
 | Sat Nov 14, 13:30-17:30 | [Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers Meetup Call for Demos](https://www.meetup.com/ai-agents-meetup/events/317285288/) | Zhongguancun Science City, Haidian District, Beijing / 北京市海淀区中关村科学城 | ai, open-source | ZH/EN | Free / 免费 |
+| Sun Nov 15 – 16 | [Huairou Science City 48-Hour Hackathon (AI for Science · OPC Challenge) / 怀柔科学城48小时黑客松](https://hackertrip.cn/hackathon/ht-a04d899420) | Huairou Science City, Beijing / 北京怀柔科学城 | ai, hardware | ZH | Free / 免费 |
 | Tue Nov 17, 09:00-17:30 | [TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会北京站](https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html) | InterContinental Beijing Beichen, Chaoyang / 北京北辰洲际酒店，朝阳区 | hardware, ai, security |  | Free / 免费 |
 
 ### Next 30 days

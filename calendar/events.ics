@@ -213,6 +213,24 @@ DESCRIPTION:Technical demo meetup on agents\, infrastructure\, multimodal
 CATEGORIES:ai,open-source
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-15-huairou-science-city-48-hour-hackathon-ai-for-scie@beijing
+ -events
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261117
+SUMMARY:Huairou Science City 48-Hour Hackathon (AI for Science · OPC Cha
+ llenge) / 怀柔科学城48小时黑客松
+LOCATION:Huairou Science City\, Beijing / 北京怀柔科学城
+URL:https://hackertrip.cn/hackathon/ht-a04d899420
+DESCRIPTION:48-hour on-site hackathon with tracks in embodied robot contr
+ ol\, AI for Science agents\, OPC business model\, AIP and AIGC. Prize poo
+ l ¥100\,000. Registration closed 11-10.\n\nhttps://hackertrip.cn/hackath
+ on/ht-a04d899420\n\nMore Beijing tech events / 更多北京科技活动: 
+ https://github.com/bovi/beijing-events\nAdd an event / 添加活动: http
+ s://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-17-ti-embedded-labs-2026-beijing-ti@beijing-events
 DTSTAMP:20261117T000000Z
 DTSTART:20261117T010000Z
