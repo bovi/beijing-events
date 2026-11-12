@@ -184,6 +184,25 @@ DESCRIPTION:Three-day 'Vibe Building' hardware hackathon: teams of 5 use
 CATEGORIES:hardware,ai
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-13-rebuild-china-enterprise-ai@beijing-events
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Rebuild: China Enterprise AI Conference 2026 / 2026中国企业AI
+ 大会
+LOCATION:Langliz Xishan Garden Hotel\, Haidian\, Beijing / 北京海淀
+ 朗丽兹西山花园酒店
+URL:https://ai.cuiniuhui.com/events/2ddac1e6
+DESCRIPTION:Enterprise AI practice\, applications and hardware sessions. 
+ Session access varies by ticket\; CEO dinner is invitation-only. 企业AI
+ 实践、应用及硬件专场；各场次权益以票种为准，CEO晚
+ 宴为定邀。\n\nhttps://ai.cuiniuhui.com/events/2ddac1e6\n\nMore Beiji
+ ng tech events / 更多北京科技活动: https://github.com/bovi/beijin
+ g-events\nAdd an event / 添加活动: https://github.com/bovi/beijing-ev
+ ents/issues/new?template=new-event.yml
+CATEGORIES:ai,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-gotc-2026-global-open-source-technology-conference@beijing
  -events
 DTSTAMP:20261114T000000Z
