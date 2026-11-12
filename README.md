@@ -17,9 +17,7 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Thu Nov 12 | [Baidu World 2026 / 百度世界2026大会](https://baiduworld2026.events.net.cn) | China National Convention Center Phase II, Beijing / 北京·国家会议中心二期 | ai, cloud | ZH |  |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](https://www.ic-china.com.cn/) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
-| Thu Nov 12 | [MEFI 2026: Medical-Engineering Integration Conference / 医工融合未来产业大会](https://mp.weixin.qq.com/s/JU2FQdLokoVhPCQthaWRaA) | Kuntai Jiarui Cultural Center, Chaoyang, Beijing / 昆泰·嘉瑞文化中心，北京市朝阳区 | hardware, ai |  |  |
 | Fri Nov 13 – 14 | [Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Infra 操作系统大会](https://www.openeuler.org/en/interaction/summit-list/summit2026/) | ZGC International Innovation Center, Beijing / 北京中关村国际创新中心 | ai, open-source, cloud |  |  |
 | Fri Nov 13 – 15 | [Mocheng x Tsinghua Maker Hardware Hackathon / 莫测智能 x 清华创客黑客松](https://hackertrip.cn/hackathon/ht-41fe79370e8746c79b983b82764635a7) | Ziqiang Science & Technology Building, Tsinghua University, Haidian / 北京海淀清华大学自强科技楼 | hardware, ai | ZH | Free / 免费 |
 | Fri Nov 13 – 14 | [Rebuild: China Enterprise AI Conference 2026 / 2026中国企业AI大会](https://ai.cuiniuhui.com/events/2ddac1e6) | Langliz Xishan Garden Hotel, Haidian, Beijing / 北京海淀朗丽兹西山花园酒店 | ai, hardware |  |  |
@@ -27,13 +25,13 @@ All times are Beijing time (UTC+8).
 | Sat Nov 14, 13:30-17:30 | [Beijing AI Tinkerers Meetup: Call for Demos / 北京 AI Tinkerers Meetup Call for Demos](https://www.meetup.com/ai-agents-meetup/events/317285288/) | Zhongguancun Science City, Haidian District, Beijing / 北京市海淀区中关村科学城 | ai, open-source | ZH/EN | Free / 免费 |
 | Sun Nov 15 – 16 | [Huairou Science City 48-Hour Hackathon (AI for Science · OPC Challenge) / 怀柔科学城48小时黑客松](https://hackertrip.cn/hackathon/ht-a04d899420) | Huairou Science City, Beijing / 北京怀柔科学城 | ai, hardware | ZH | Free / 免费 |
 | Tue Nov 17, 09:00-17:30 | [TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会北京站](https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html) | InterContinental Beijing Beichen, Chaoyang / 北京北辰洲际酒店，朝阳区 | hardware, ai, security |  | Free / 免费 |
+| Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
+| Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
 
 ### Next 30 days
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
-| Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 | Sun Nov 22, 09:30-18:00 | [DevFest Beijing 2026 / 北京 DevFest 2026](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) | Jingyi Hotel, Haidian, Beijing / 北京京仪大酒店，海淀区 | ai, cloud, mobile, web |  |  |
 | Fri Nov 27 – 28 | [Embedded C Programming Workshop / 嵌入式C语言高质量编程实战技术高级研修班](https://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA) | Beijing; exact venue not announced / 北京，具体会场未公布 | hardware |  | ¥3,990 per person / 每人3990元 |
