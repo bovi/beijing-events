@@ -17,6 +17,7 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
+| Thu Nov 12 | [Baidu World 2026 / 百度世界2026大会](https://baiduworld2026.events.net.cn) | China National Convention Center Phase II, Beijing / 北京·国家会议中心二期 | ai, cloud | ZH |  |
 | Thu Nov 12 – 14 | [IC China 2026: 23rd China International Semiconductor Expo / 第二十三届中国国际半导体博览会](https://www.ic-china.com.cn/) | China National Convention Center, Chaoyang, Beijing / 北京国家会议中心，朝阳区 | hardware | ZH |  |
 | Thu Nov 12 | [MEFI 2026: Medical-Engineering Integration Conference / 医工融合未来产业大会](https://mp.weixin.qq.com/s/JU2FQdLokoVhPCQthaWRaA) | Kuntai Jiarui Cultural Center, Chaoyang, Beijing / 昆泰·嘉瑞文化中心，北京市朝阳区 | hardware, ai |  |  |
 | Fri Nov 13 – 14 | [Agentic Infra OS Conference & openEuler Summit 2026 / Agentic Infra 操作系统大会](https://www.openeuler.org/en/interaction/summit-list/summit2026/) | ZGC International Innovation Center, Beijing / 北京中关村国际创新中心 | ai, open-source, cloud |  |  |

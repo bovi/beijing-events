@@ -85,6 +85,23 @@ DESCRIPTION:AI\, embodied intelligence and semiconductor competition\; at
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-12-baidu-world-2026-2026@beijing-events
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Baidu World 2026 / 百度世界2026大会
+LOCATION:China National Convention Center Phase II\, Beijing / 北京·
+ 国家会议中心二期
+URL:https://baiduworld2026.events.net.cn
+DESCRIPTION:Baidu's annual tech conference themed '下一幕\,智能组
+ 织': 1 main forum\, 12 sub-forums\, 30+ AI open classes and a 6000 sqm e
+ xhibition on chips\, cloud\, LLMs and agents.\n\nhttps://baiduworld2026.e
+ vents.net.cn\n\nMore Beijing tech events / 更多北京科技活动: http
+ s://github.com/bovi/beijing-events\nAdd an event / 添加活动: https://
+ github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,cloud
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-12-ic-china-2026-23rd-china-international-semiconduct@beijing
  -events
 DTSTAMP:20261112T000000Z
