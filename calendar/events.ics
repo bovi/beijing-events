@@ -386,6 +386,27 @@ DESCRIPTION:Paid embedded C/RTOS workshop. ¥3990 includes training\, lun
 CATEGORIES:hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-ai-plus-industry-ecosystem-conference@beijing-events
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:2026 AI+ Industry Ecosystem Conference / 2026（第二届）“
+ 人工智能+”产业生态大会
+LOCATION:Zhongguancun Exhibition Center Conference Center\, Haidian / 北
+ 京市海淀区中关村展示中心会议中心\, 北京市海淀区新
+ 建宫门路2号
+URL:https://ievnt.com/94013/sign/6243
+DESCRIPTION:Second-edition conference on AI ecosystem governance and indu
+ stry adoption\, with an opening session and forums on compute\, applicati
+ ons and AI terminals. / 第二届大会聚焦“人工智能+”产业生
+ 态，设开幕大会及生态治理、算力、行业应用等论坛；A
+ I终端论坛于12月2日举行。\n\nhttps://ievnt.com/94013/sign/6243\n
+ \nMore Beijing tech events / 更多北京科技活动: https://github.com
+ /bovi/beijing-events\nAdd an event / 添加活动: https://github.com/bov
+ i/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-2026-software-technology-conference-2026@beijing-events
 DTSTAMP:20261211T000000Z
 DTSTART:20261211T010000Z

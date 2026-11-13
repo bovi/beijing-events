@@ -35,6 +35,7 @@ All times are Beijing time (UTC+8).
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 | Sun Nov 22, 09:30-18:00 | [DevFest Beijing 2026 / 北京 DevFest 2026](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) | Jingyi Hotel, Haidian, Beijing / 北京京仪大酒店，海淀区 | ai, cloud, mobile, web |  |  |
 | Fri Nov 27 – 28 | [Embedded C Programming Workshop / 嵌入式C语言高质量编程实战技术高级研修班](https://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA) | Beijing; exact venue not announced / 北京，具体会场未公布 | hardware |  | ¥3,990 per person / 每人3990元 |
+| Tue Dec 1 – 3 | [2026 AI+ Industry Ecosystem Conference / 2026（第二届）“人工智能+”产业生态大会](https://ievnt.com/94013/sign/6243) | Zhongguancun Exhibition Center Conference Center, Haidian / 北京市海淀区中关村展示中心会议中心 | ai | ZH |  |
 | Fri Dec 11, 09:00-18:00 | [2026 Software Technology Conference / 2026软件技术大会](https://itknowledgezone.com/cn/event/2026-software-technology-conference/) | Beijing / 北京 | ai, data, other | ZH | Paid / 收费 |
 | Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
 
