@@ -38,6 +38,7 @@ All times are Beijing time (UTC+8).
 | Tue Dec 1 – 3 | [2026 AI+ Industry Ecosystem Conference / 2026（第二届）“人工智能+”产业生态大会](https://ievnt.com/94013/sign/6243) | Zhongguancun Exhibition Center Conference Center, Haidian / 北京市海淀区中关村展示中心会议中心 | ai | ZH |  |
 | Fri Dec 11, 09:00-18:00 | [2026 Software Technology Conference / 2026软件技术大会](https://itknowledgezone.com/cn/event/2026-software-technology-conference/) | Beijing / 北京 | ai, data, other | ZH | Paid / 收费 |
 | Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
+| Sun Dec 13, 09:50-17:30 | [AMD AI DevDay Beijing / AMD AI 开发者日全球巡回活动 · 北京站](https://amdbj.bagevent.io/) | Jinyu Sheraton Hotel, Dongcheng / 北京金隅喜来登大酒店 | ai, hardware | ZH | Free / 免费 |
 
 ### Later
 

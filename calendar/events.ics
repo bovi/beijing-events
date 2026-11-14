@@ -445,6 +445,23 @@ DESCRIPTION:Technical talks on training\, inference\, acceleration\, phys
 CATEGORIES:ai,open-source,hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-13-amd-ai-devday-beijing-amd-ai@beijing-events
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T015000Z
+DTEND:20261213T093000Z
+SUMMARY:AMD AI DevDay Beijing / AMD AI 开发者日全球巡回活动 · 
+ 北京站
+LOCATION:Jinyu Sheraton Hotel\, Dongcheng / 北京金隅喜来登大酒
+ 店\, 北京市东城区北三环东路36号
+URL:https://amdbj.bagevent.io/
+DESCRIPTION:Free AI developer day with ROCm talks\, hands-on workshops on
+  AMD GPUs (robotics VLA training\, RL) and ROCm certification.\n\nhttps:/
+ /amdbj.bagevent.io/\n\nMore Beijing tech events / 更多北京科技活
+ 动: https://github.com/bovi/beijing-events\nAdd an event / 添加活动:
+  https://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-aicon-beijing-2026@beijing-events
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
