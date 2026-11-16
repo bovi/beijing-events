@@ -441,6 +441,22 @@ DESCRIPTION:Second-edition conference on AI ecosystem governance and indu
 CATEGORIES:ai
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-21st-china-idc-industry-annual-ceremony-idc@beijing-events
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+SUMMARY:21st China IDC Industry Annual Ceremony / 第二十一届中国ID
+ C产业年度大典
+LOCATION:Shijingshan District\, Beijing / 北京石景山
+URL:https://www.huodongxing.com/event/3878894834600
+DESCRIPTION:Annual China data center (IDC) industry conference organized 
+ by IDC Quan (中国IDC圈).\n\nhttps://www.huodongxing.com/event/38788948
+ 34600\n\nMore Beijing tech events / 更多北京科技活动: https://git
+ hub.com/bovi/beijing-events\nAdd an event / 添加活动: https://github.
+ com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:cloud,hardware
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-2026-software-technology-conference-2026@beijing-events
 DTSTAMP:20261211T000000Z
 DTSTART:20261211T010000Z
