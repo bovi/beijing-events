@@ -366,6 +366,22 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-22-agentic-db-day-beijing-agentic-db-day-agent@beijing-events
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T053000Z
+DTEND:20261122T093000Z
+SUMMARY:Agentic DB Day Beijing / Agentic DB Day · 北京——让Agent
+ 更具生产力
+LOCATION:Haidian District\, Beijing / 北京海淀
+URL:https://www.huodongxing.com/event/4886704227100
+DESCRIPTION:Alibaba Cloud database community event in Beijing on making A
+ I agents more productive with databases.\n\nhttps://www.huodongxing.com/e
+ vent/4886704227100\n\nMore Beijing tech events / 更多北京科技活动
+ : https://github.com/bovi/beijing-events\nAdd an event / 添加活动: ht
+ tps://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,data,cloud
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-wise2026-business-kings-conference-wise2026@beijing-events
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126

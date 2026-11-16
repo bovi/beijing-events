@@ -22,6 +22,7 @@ All times are Beijing time (UTC+8).
 | Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
 | Sun Nov 22, 09:30-18:00 | [DevFest Beijing 2026 / 北京 DevFest 2026](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) | Jingyi Hotel, Haidian, Beijing / 北京京仪大酒店，海淀区 | ai, cloud, mobile, web |  |  |
+| Sun Nov 22, 13:30-17:30 | [Agentic DB Day Beijing / Agentic DB Day · 北京——让Agent更具生产力](https://www.huodongxing.com/event/4886704227100) | Haidian District, Beijing / 北京海淀 | ai, data, cloud |  |  |
 
 ### Next 30 days
 
