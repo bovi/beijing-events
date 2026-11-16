@@ -512,6 +512,26 @@ DESCRIPTION:Free AI developer day with ROCm talks\, hands-on workshops on
 CATEGORIES:ai,hardware
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-15-china-ai-agent-conference-2026-beijing-2026-ai@beijing-eve
+ nts
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261217
+SUMMARY:China AI Agent Conference 2026 (Beijing) / 2026中国AI智能体
+ 大会（北京站）
+LOCATION:Renaissance Beijing Capital Hotel (Fuli Wanli Hotel)\, Beijing /
+  北京富力万丽酒店
+URL:https://agenticaicon.zhidx.com/2026beijing/
+DESCRIPTION:Two-day Agentic AI conference with opening ceremony\, enterpr
+ ise agent forum and eight technical workshops (Personal Agent\, RSI\, Cod
+ ing Agent\, Agent Harness\, Agent Memory\, Agent Sandbox\, etc.) plus an 
+ exhibition.\n\nhttps://agenticaicon.zhidx.com/2026beijing/\n\nMore Beijin
+ g tech events / 更多北京科技活动: https://github.com/bovi/beijing
+ -events\nAdd an event / 添加活动: https://github.com/bovi/beijing-eve
+ nts/issues/new?template=new-event.yml
+CATEGORIES:ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-aicon-beijing-2026@beijing-events
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
