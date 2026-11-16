@@ -17,7 +17,6 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Sun Nov 15 – 16 | [Huairou Science City 48-Hour Hackathon (AI for Science · OPC Challenge) / 怀柔科学城48小时黑客松](https://hackertrip.cn/hackathon/ht-a04d899420) | Huairou Science City, Beijing / 北京怀柔科学城 | ai, hardware | ZH | Free / 免费 |
 | Tue Nov 17, 09:00-17:30 | [TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会北京站](https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html) | InterContinental Beijing Beichen, Chaoyang / 北京北辰洲际酒店，朝阳区 | hardware, ai, security |  | Free / 免费 |
 | Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
 | Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
@@ -28,6 +27,7 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
+| Thu Nov 26 – 28 | [WISE2026 Business Kings Conference / WISE2026 商业之王大会](https://wise.36kr.com/wise-2026-nov) | Tongming Lake Convention Center, Yizhuang, Beijing / 北京亦庄通明湖会展中心 | startup, ai | ZH |  |
 | Fri Nov 27 – 28 | [Embedded C Programming Workshop / 嵌入式C语言高质量编程实战技术高级研修班](https://mp.weixin.qq.com/s/jkCN36cny2biCr4Gwe5mKA) | Beijing; exact venue not announced / 北京，具体会场未公布 | hardware |  | ¥3,990 per person / 每人3990元 |
 | Tue Dec 1 – 3 | [2026 AI+ Industry Ecosystem Conference / 2026（第二届）“人工智能+”产业生态大会](https://ievnt.com/94013/sign/6243) | Zhongguancun Exhibition Center Conference Center, Haidian / 北京市海淀区中关村展示中心会议中心 | ai | ZH |  |
 | Fri Dec 11, 09:00-18:00 | [2026 Software Technology Conference / 2026软件技术大会](https://itknowledgezone.com/cn/event/2026-software-technology-conference/) | Beijing / 北京 | ai, data, other | ZH | Paid / 收费 |

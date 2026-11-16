@@ -366,6 +366,24 @@ DESCRIPTION:Build\, secure\, scale in the agentic era: Google AI\, Cloud
 CATEGORIES:ai,cloud,mobile,web
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-wise2026-business-kings-conference-wise2026@beijing-events
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:WISE2026 Business Kings Conference / WISE2026 商业之王大会
+LOCATION:Tongming Lake Convention Center\, Yizhuang\, Beijing / 北京亦
+ 庄通明湖会展中心
+URL:https://wise.36kr.com/wise-2026-nov
+DESCRIPTION:36Kr's annual flagship tech-business conference on AI applica
+ tions\, embodied intelligence and new consumption\, with 200+ speakers\, 
+ an embodied-AI industry alliance launch and OPC sub-forum.\n\nhttps://wis
+ e.36kr.com/wise-2026-nov\n\nMore Beijing tech events / 更多北京科技
+ 活动: https://github.com/bovi/beijing-events\nAdd an event / 添加活
+ 动: https://github.com/bovi/beijing-events/issues/new?template=new-event
+ .yml
+CATEGORIES:startup,ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-embedded-c-programming-workshop-c@beijing-events
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
