@@ -17,7 +17,6 @@ All times are Beijing time (UTC+8).
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Tue Nov 17, 09:00-17:30 | [TI Embedded Labs 2026 Beijing / TI 嵌入式技术创新研讨会北京站](https://www.eepw.com.cn/event/action/ti_webinar/ti_embedded.html) | InterContinental Beijing Beichen, Chaoyang / 北京北辰洲际酒店，朝阳区 | hardware, ai, security |  | Free / 免费 |
 | Thu Nov 19 – 20 | [ICCAD-Expo 2026: IC Design Exhibition / 集成电路设计业展览会](https://iccad.xmtexpo.com/) | Beiren Etrong International Exhibition & Convention Center, Yizhuang, Beijing / 北京亦庄北人亦创国际会展中心 | hardware |  |  |
 | Thu Nov 19 – 20, 09:00-17:00 | [Beijing AI Creators Conference 2026 / 非凡大赏·北京·AI创造者大会](https://mp.weixin.qq.com/s/9TbP5NiccnSCD9xfGLY7sg) | Grand Metropark Hotel Beijing / 北京维景国际大酒店 | ai, startup |  | Free / 免费 |
 | Fri Nov 20, 13:30-17:00 | [Alibaba Cloud AI Full-Stack Observability Salon (阿里云 AI 全栈观测实战沙龙)](https://t.aliyun.com/l9RNKZrR) | Alibaba Chaoyang Science Park, Chaoyang | ai, cloud | ZH |  |
@@ -36,13 +35,13 @@ All times are Beijing time (UTC+8).
 | Sat Dec 12 | [PyTorch Day China 2026 / PyTorch 中国开发者日](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) | Alibaba Beijing Chaoyang Science and Technology Park / 阿里巴巴北京朝阳科技园 | ai, open-source, hardware |  |  |
 | Sun Dec 13, 09:50-17:30 | [AMD AI DevDay Beijing / AMD AI 开发者日全球巡回活动 · 北京站](https://amdbj.bagevent.io/) | Jinyu Sheraton Hotel, Dongcheng / 北京金隅喜来登大酒店 | ai, hardware | ZH | Free / 免费 |
 | Tue Dec 15 – 16 | [China AI Agent Conference 2026 (Beijing) / 2026中国AI智能体大会（北京站）](https://agenticaicon.zhidx.com/2026beijing/) | Renaissance Beijing Capital Hotel (Fuli Wanli Hotel), Beijing / 北京富力万丽酒店 | ai | ZH |  |
+| Fri Dec 18 – 19 | [AICon Beijing 2026 / 全球人工智能开发与应用大会 北京站](https://aicon.infoq.cn/202612/beijing/) | Crowne Plaza New Yunnan Hotel, Beijing / 北京新云南皇冠假日酒店 | ai | ZH |  |
+| Fri Dec 18 – 21 | [CSAI 2026: Computer Science and Artificial Intelligence / 第十届计算机科学与人工智能国际会议](https://www.csai.org/) | Beijing, China / 中国北京 | ai, data, security | EN | Listener / 听众: ¥1800; student / 学生: ¥1600; onsite fees higher / 现场注册另计 |
 
 ### Later
 
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
-| Fri Dec 18 – 19 | [AICon Beijing 2026 / 全球人工智能开发与应用大会 北京站](https://aicon.infoq.cn/202612/beijing/) | Crowne Plaza New Yunnan Hotel, Beijing / 北京新云南皇冠假日酒店 | ai | ZH |  |
-| Fri Dec 18 – 21 | [CSAI 2026: Computer Science and Artificial Intelligence / 第十届计算机科学与人工智能国际会议](https://www.csai.org/) | Beijing, China / 中国北京 | ai, data, security | EN | Listener / 听众: ¥1800; student / 学生: ¥1600; onsite fees higher / 现场注册另计 |
 | Sat Dec 26 | [AI Maker Summit 2026 Beijing / AI Maker Summit 2026 北京站](https://aimakersummit.com/2026/beijing) | Crowne Plaza Beijing Chaoyang U-Town / 北京朝阳悠唐皇冠假日酒店 | ai, startup |  | Advertised discount / 官网优惠票: ¥399; ticket tiers vary / 票档以购票页为准 |
 <!-- EVENTS:END -->
 
