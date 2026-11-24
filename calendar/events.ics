@@ -624,4 +624,23 @@ DESCRIPTION:Summit on AI\, data\, security and development for going glob
  /issues/new?template=new-event.yml
 CATEGORIES:cloud,ai,startup
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-digital-engineering-and-science-conference-desc-20@beijing
+ -events
+DTSTAMP:20270116T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:Digital Engineering and Science Conference (DESC 2027) / 数字
+ 工程与科学会议
+LOCATION:Beijing Chen Mao Hong Xiang Hotel\, Haidian / 北京晨茂鸿祥
+ 酒店\, No. 15 Longxiang Road\, Beijing 100191
+URL:https://idea-global.net/DESCConference/info.aspx?itemid=858
+DESCRIPTION:Two-day conference on digital engineering: digital manufactur
+ ing\, digital city\, aerospace\, energy\, healthcare and more\, with keyn
+ otes and technology showcase.\n\nhttps://idea-global.net/DESCConference/i
+ nfo.aspx?itemid=858\n\nMore Beijing tech events / 更多北京科技活
+ 动: https://github.com/bovi/beijing-events\nAdd an event / 添加活动:
+  https://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:other
+END:VEVENT
 END:VCALENDAR
