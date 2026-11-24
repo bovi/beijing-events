@@ -569,6 +569,24 @@ DESCRIPTION:Research conference on computer science and AI. Submission de
 CATEGORIES:ai,data,security
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-jinyi-hackathon-2026-wenmai-xinsheng@beijing-events
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+SUMMARY:Jinyi Hackathon 2026: Wenmai Xinsheng / 锦衣黑客松·文脉
+ 新生
+LOCATION:Beijing (venue announced after registration) / 北京（报名
+ 后通知）
+URL:https://hack123.henryht.sh/en/h/jinyi-hackathon-wenmai-2026
+DESCRIPTION:48-hour in-person final of an AI video / AI game hackathon on
+  Chinese traditional culture. Register by Nov 27\; CNY 100\,000 prize poo
+ l.\n\nhttps://hack123.henryht.sh/en/h/jinyi-hackathon-wenmai-2026\n\nMore
+  Beijing tech events / 更多北京科技活动: https://github.com/bovi/
+ beijing-events\nAdd an event / 添加活动: https://github.com/bovi/beij
+ ing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,gaming
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-26-ai-maker-summit-2026-beijing-ai-maker-summit-2026@beijing-
  events
 DTSTAMP:20261226T000000Z

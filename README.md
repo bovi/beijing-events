@@ -32,6 +32,7 @@ All times are Beijing time (UTC+8).
 | Tue Dec 15 – 16 | [China AI Agent Conference 2026 (Beijing) / 2026中国AI智能体大会（北京站）](https://agenticaicon.zhidx.com/2026beijing/) | Renaissance Beijing Capital Hotel (Fuli Wanli Hotel), Beijing / 北京富力万丽酒店 | ai | ZH |  |
 | Fri Dec 18 – 19 | [AICon Beijing 2026 / 全球人工智能开发与应用大会 北京站](https://aicon.infoq.cn/202612/beijing/) | Crowne Plaza New Yunnan Hotel, Beijing / 北京新云南皇冠假日酒店 | ai | ZH |  |
 | Fri Dec 18 – 21 | [CSAI 2026: Computer Science and Artificial Intelligence / 第十届计算机科学与人工智能国际会议](https://www.csai.org/) | Beijing, China / 中国北京 | ai, data, security | EN | Listener / 听众: ¥1800; student / 学生: ¥1600; onsite fees higher / 现场注册另计 |
+| Fri Dec 18 – 20 | [Jinyi Hackathon 2026: Wenmai Xinsheng / 锦衣黑客松·文脉新生](https://hack123.henryht.sh/en/h/jinyi-hackathon-wenmai-2026) | Beijing (venue announced after registration) / 北京（报名后通知） | ai, gaming | ZH | Free / 免费 |
 
 ### Later
 
