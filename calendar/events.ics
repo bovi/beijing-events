@@ -588,4 +588,22 @@ DESCRIPTION:One-day summit on AI agents\, AI-native products\, harness en
  ps://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:ai,startup
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-2027-google-cloud-going-global-summit-2027-google@beijing-
+ events
+DTSTAMP:20270114T000000Z
+DTSTART:20270114T013000Z
+DTEND:20270114T090000Z
+SUMMARY:2027 Google Cloud Going Global Summit / 2027 Google Cloud 出海
+ 峰会
+LOCATION:Beijing / 北京
+URL:https://gcp.infoq.cn/summit/index.html
+DESCRIPTION:Summit on AI\, data\, security and development for going glob
+ al\, with developer space\, hands-on workshops\, hackathon challenges and
+  startup hub.\n\nhttps://gcp.infoq.cn/summit/index.html\n\nMore Beijing t
+ ech events / 更多北京科技活动: https://github.com/bovi/beijing-ev
+ ents\nAdd an event / 添加活动: https://github.com/bovi/beijing-events
+ /issues/new?template=new-event.yml
+CATEGORIES:cloud,ai,startup
+END:VEVENT
 END:VCALENDAR

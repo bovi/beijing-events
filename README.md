@@ -38,6 +38,7 @@ All times are Beijing time (UTC+8).
 | When | Event | Where | Topics | Lang | Price |
 |---|---|---|---|---|---|
 | Sat Dec 26 | [AI Maker Summit 2026 Beijing / AI Maker Summit 2026 北京站](https://aimakersummit.com/2026/beijing) | Crowne Plaza Beijing Chaoyang U-Town / 北京朝阳悠唐皇冠假日酒店 | ai, startup |  | Advertised discount / 官网优惠票: ¥399; ticket tiers vary / 票档以购票页为准 |
+| Thu Jan 14, 2027, 09:30-17:00 | [2027 Google Cloud Going Global Summit / 2027 Google Cloud 出海峰会](https://gcp.infoq.cn/summit/index.html) | Beijing / 北京 | cloud, ai, startup | ZH |  |
 <!-- EVENTS:END -->
 
 ## Add an event · 添加活动
