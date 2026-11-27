@@ -625,6 +625,25 @@ DESCRIPTION:Summit on AI\, data\, security and development for going glob
 CATEGORIES:cloud,ai,startup
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-2nd-china-international-ai-action-conference@beijing-event
+ s
+DTSTAMP:20270116T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:2nd China International AI+ Action Conference / 第二届中国
+ 国际人工智能+行动大会
+LOCATION:China National Convention Center\, Beijing / 北京·国家会
+ 议中心
+URL:https://www.keyaction.net/ai-action-2027.html
+DESCRIPTION:Two-day conference with main forum\, eight sub-forums on ente
+ rprise agents\, AI+ manufacturing\, healthcare\, humanoid robots and AI s
+ ecurity\, plus roadshows.\n\nhttps://www.keyaction.net/ai-action-2027.htm
+ l\n\nMore Beijing tech events / 更多北京科技活动: https://github.
+ com/bovi/beijing-events\nAdd an event / 添加活动: https://github.com/
+ bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-16-digital-engineering-and-science-conference-desc-20@beijing
  -events
 DTSTAMP:20270116T000000Z
