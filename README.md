@@ -41,6 +41,7 @@ All times are Beijing time (UTC+8).
 |---|---|---|---|---|---|
 | Thu Jan 14, 2027, 09:30-17:00 | [2027 Google Cloud Going Global Summit / 2027 Google Cloud 出海峰会](https://gcp.infoq.cn/summit/index.html) | Beijing / 北京 | cloud, ai, startup | ZH |  |
 | Sat Jan 16, 2027 – 17 | [Digital Engineering and Science Conference (DESC 2027) / 数字工程与科学会议](https://idea-global.net/DESCConference/info.aspx?itemid=858) | Beijing Chen Mao Hong Xiang Hotel, Haidian / 北京晨茂鸿祥酒店 | other | EN |  |
+| Sat Jan 23, 2027 – 24 | [TritonNext 2027 Tech Conference / 2027 TritonNext技术大会](https://www.bagevent.com/event/TritonNext2027) | Zhongguancun Conference Center, Haidian / 北京海淀区中关村国家自主创新示范区-会议中心 | ai, open-source | ZH | Free / 免费 |
 <!-- EVENTS:END -->
 
 ## Add an event · 添加活动

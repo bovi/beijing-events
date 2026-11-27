@@ -643,4 +643,22 @@ DESCRIPTION:Two-day conference on digital engineering: digital manufactur
   https://github.com/bovi/beijing-events/issues/new?template=new-event.yml
 CATEGORIES:other
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-tritonnext-2027-tech-conference-2027-tritonnext@beijing-ev
+ ents
+DTSTAMP:20270123T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:TritonNext 2027 Tech Conference / 2027 TritonNext技术大会
+LOCATION:Zhongguancun Conference Center\, Haidian / 北京海淀区中关
+ 村国家自主创新示范区-会议中心
+URL:https://www.bagevent.com/event/TritonNext2027
+DESCRIPTION:Open forum on AI programming languages\, AI compilers\, kerne
+ l development\, hardware-software co-design and AI training/inference sys
+ tems\, with FlagOS 2.3 release and workshops.\n\nhttps://www.bagevent.com
+ /event/TritonNext2027\n\nMore Beijing tech events / 更多北京科技活
+ 动: https://github.com/bovi/beijing-events\nAdd an event / 添加活动:
+  https://github.com/bovi/beijing-events/issues/new?template=new-event.yml
+CATEGORIES:ai,open-source
+END:VEVENT
 END:VCALENDAR
